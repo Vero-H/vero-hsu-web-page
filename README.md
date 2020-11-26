@@ -1,8 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to Vero Hsu's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Vero-H/vero-hsu-web-page/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+We are going to start out a new journey from skretch! I will document what I learn along the way, content and designs may be a bit messy to start with, but that's the learning curve.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Never too late to start out something new and learn that thing you have always wanted to learn! I have not really given coding any thoughts as I was never good at mathematical stuff but I negelected the fact that I was always really good at picking up computer and new technology since I was little.
+
+I'm about 3 weeks in trying to understand what are the amazing and abundament that are out there, in the coding world has to offer.  I have been just reaserching and trying figure out which language is for what purposes, and binge-watching youtube videos of all sort of the great developers sharing their insights to their differently but same amazing expereineces.
+
+This is my firt attempt, but I'm going to build a whole lot of cool portfolio.
+
+next up, other than a strong portfolio. I'd like to document my journey, as a tech nebiew of learning how to code from ZERO expereinece and never muddled in the tech field in late 2020 where the world slapped me in the face and told me to get going with my little precious life on earth and learn something! do something while I can, cherish the crazy amount of resources that are all within reach and so accessable!
+
+***peace out for today***
+
 
 ### Markdown
 
