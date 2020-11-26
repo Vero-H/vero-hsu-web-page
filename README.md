@@ -10,7 +10,7 @@ This is my first attempt to create my first webpage, but I'm going to build a wh
 
 Next up, other than a strong portfolio. I will document my journey, as a tech newbie of learning how to code from ZERO experience and never muddled in the tech field in late 2020 where the world had slapped me in the face and told me to get going with my little precious life on earth and learn something! Just get up and do something while I can, cherish the crazy amount of resources that are all within reach and so accessible!
 
-**peace out for today**
+**peace out for today 26 NOV 2020**
 
 
 
